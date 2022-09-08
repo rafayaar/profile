@@ -1,3 +1,2 @@
-# My-Resume
-
-This repository defines my virtual resume developed in Bootstrap, HTML, CSS and JS
+# Resume
+I made a resume with Bootstrap, HTML, CSS and JS
