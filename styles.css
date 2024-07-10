@@ -10091,12 +10091,21 @@ p.lead {
 }
 #rcorners1 {
   border-radius: 35px;
-  border: 1px solid #2c74b4;
-  /* background-color: #2c74b4; */
   padding: 2px 10px; 
-  font-size: 20px;
+  font-size: 15px;
 }
+.parent-skills
+{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 
+}
+.skills{
+
+  width: 300px;
+  height: fit-content;
+}
 section.resume-section {
   display: flex;
   align-items: center;
